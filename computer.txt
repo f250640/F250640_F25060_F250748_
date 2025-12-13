@@ -1,0 +1,84 @@
+What does CPU stand for?
+Central Process Unit
+Central Processing Unit
+Computer Personal Unit
+Central Processor Unit
+2
+1
+Which is a volatile memory?
+ROM
+HDD
+RAM
+SSD
+3
+1
+What is 1024 bytes equal to?
+1 KB
+1 MB
+1 GB
+1 TB
+1
+2
+Who is the father of the computer?
+Alan Turing
+Charles Babbage
+Bill Gates
+Steve Jobs
+2
+2
+Which language is used for web structure?
+CSS
+HTML
+Python
+Java
+2
+3
+What is the binary system base?
+10
+8
+2
+16
+3
+1
+Which key is used to copy text?
+Ctrl+V
+Ctrl+X
+Ctrl+C
+Ctrl+P
+3
+1
+What is the main circuit board called?
+Motherboard
+Fatherboard
+Breadboard
+Keyboard
+1
+2
+Which device is an input device?
+Monitor
+Speaker
+Mouse
+Printer
+3
+1
+What does OS stand for?
+Open System
+Operating Source
+Operating System
+Output System
+3
+1
+Which company owns Windows?
+Apple
+Google
+Microsoft
+IBM
+3
+1
+What is the brain of the computer?
+RAM
+Hard Drive
+Monitor
+CPU
+4
+1

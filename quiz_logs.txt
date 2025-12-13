@@ -1,0 +1,15 @@
+Player: Umar | Score: 20 | Correct: 2 | Wrong: 0 | Date: Wed Dec 10 18:36:08 2025
+Player: Huzaifa | Score: -5 | Correct: 0 | Wrong: 1
+Player: Ali | Score: 0 | Correct: 0 | Wrong: 1
+Player: Umar | Score: 10 | Correct: 1 | Wrong: 0
+Player: Huzaifa | Score: 10 | Correct: 1 | Wrong: 0
+Player: test1 | Score: 107 | Correct: 9 | Wrong: 1
+Player: Umar | Score: 100 | Correct: 8 | Wrong: 1
+Player: khan | Score: 54 | Correct: 6 | Wrong: 4
+Player: mm | Score: 95 | Correct: 8 | Wrong: 2
+Player: , | Score: -50 | Correct: 0 | Wrong: 10
+Player: dhd | Score: 33 | Correct: 4 | Wrong: 6
+Player: uzaifa | Score: 45 | Correct: 5 | Wrong: 5
+Player: in ladin | Score: 120 | Correct: 10 | Wrong: 0
+Player: hh | Score: -20 | Correct: 2 | Wrong: 8
+Player: f | Score: -17 | Correct: 1 | Wrong: 9

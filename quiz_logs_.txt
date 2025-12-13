@@ -1,0 +1,7 @@
+Player: Umar | Score: 20 | Correct: 2 | Wrong: 0 | Date: Wed Dec 10 18:36:08 2025
+Player: Huzaifa | Score: -5 | Correct: 0 | Wrong: 1
+Player: Ali | Score: 0 | Correct: 0 | Wrong: 1
+Player: Umar | Score: 10 | Correct: 1 | Wrong: 0
+Player: Huzaifa | Score: 10 | Correct: 1 | Wrong: 0
+Player: test1 | Score: 107 | Correct: 9 | Wrong: 1
+Player: Umar | Score: 100 | Correct: 8 | Wrong: 1

@@ -1,0 +1,69 @@
+41. CPU stands for:
+Central Power Unit
+Central Processing Unit
+Computer Processing Unit
+Control Processing Unit
+2
+
+42. Which is a permanent storage device?
+RAM
+Cache
+Hard Disk
+Register
+3
+
+43. RAM stands for:
+Read Access Memory
+Random Access Memory
+Rapid Access Memory
+Run Access Memory
+2
+
+44. Which language is used for web page styling?
+HTML
+Java
+CSS
+Python
+3
+
+45. OS stands for:
+Open Software
+Operating System
+Output System
+Online System
+2
+
+46. Device used to move cursor:
+Keyboard
+Scanner
+Mouse
+Printer
+3
+
+47. Binary number system is based on:
+0–9
+1–9
+0 and 1
+A and B
+3
+
+48. Software used to browse the internet:
+Compiler
+Browser
+Editor
+Loader
+2
+
+49. Smallest unit of data:
+Byte
+Bit
+KB
+Nibble
+2
+
+50. Which is a system-level programming language?
+Python
+Java
+C++
+HTML
+3
