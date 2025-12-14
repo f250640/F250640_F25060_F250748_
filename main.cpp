@@ -4,9 +4,6 @@ Group_Members:
 2. Asfand Haroon - ID: 25F-0606
 3. Mati ur Rehman - ID: 25F-0748*/
 
-// Disable secure warnings for older functions
-
-
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -133,11 +130,6 @@ void MainBody()
     cout << "Enter your name: ";
     cin.ignore();
     getline(cin, playerName);
-
-    
- 
-   
-
 int catChoice;
 int currentDifficulty;
 string filename;
@@ -221,10 +213,6 @@ else // IQ / Logic
     else if (currentDifficulty == 2) filename = "IQm_medium.txt";
     else filename = "iq_hard.txt";
 }
-
-
-   
-
 	// Arrays for questions
     string qText[MAX_QUESTIONS];
     string qOptions[MAX_QUESTIONS][4];
@@ -238,10 +226,6 @@ else // IQ / Logic
         cout << "\nNo questions loaded. File might be empty." << endl;
         return;
     }
-
-
-   
-
 	// Shuffle questions randomly
     for (int k = 0; k < 30; k++) 
     {
@@ -502,3 +486,4 @@ int main()
 
     return 0;
 }
+
